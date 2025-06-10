@@ -26,4 +26,4 @@ jobs:
 
       - name: Ejecutar pruebas con pytest
         run: |
-          pytest  
+          pytest -v --tb=long
