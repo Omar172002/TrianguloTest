@@ -36,4 +36,4 @@ pytest test_suma.py
 
 ## Contributing
 
-Feel free to submit issues or pull requests if you have suggestions or improvements for the project.
+Feel free to submit issues or pull requests if you have suggestions or improvements for the project.# TrianguloTest
